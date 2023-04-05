@@ -1,0 +1,36 @@
+header {color:rgb(6, 5, 7);
+font-size: 40px;
+background-color:peru;
+text-align:center;}
+
+.kvati{text-align: center;
+
+width: 200px;height: 140px;
+}
+main p{text-align:left;}
+
+.frangi{ height: 50px;
+    width:800px;
+    float:right}
+
+.cisperebi{width: 270px;
+height:170px;}
+
+.cort{height:200px;
+width:190px}
+
+.onopre{ width:200px;
+height:180px}
+
+table {border:3px solid pink}
+td{border:3px solid pink}
+
+a{color:blue}
+
+.ohio{color:white;
+background-color: blue;
+text-decoration: none;
+border:5px solid blue;
+border-radius: 30px;
+padding: 10px;
+font-size: 40px;}
